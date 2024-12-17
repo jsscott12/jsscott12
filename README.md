@@ -1,4 +1,19 @@
-## Hi there 👋
+<h1><a href="https://github.com/jsscott12" <a> Hi, I'm Josh!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+
+
+ 
+<h2>📱 Connect with me:</h2>
+
+[<img align="left" alt="joshua-scott- | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshua-scott-
+
+
+<!-- ## Hi there 👋 
 
 <!--
 **jsscott12/jsscott12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
